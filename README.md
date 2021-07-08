@@ -19,8 +19,9 @@
 ---
 
 <div align="center" text-align="center">
-<p align="center"> Verão mobile - Menu / Versão mobile </p> 
-<img src="src/assets/mobile-menu.png"> <img src="src/assets/mobile.png">
+<p align="center"> Versão mobile:</p> 
+<img src="src/assets/mobile-menu.png">
+<img src="src/assets/mobile.png">
 </div>
 
 ## 💻 Projeto:
